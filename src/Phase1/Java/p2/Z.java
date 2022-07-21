@@ -11,6 +11,8 @@ public class Z extends M {
 		System.out.println("The Variable of 3 is " +new X().x3);
 		System.out.println("The Variable of 4 is " +new X().x4);
 		
+		
+		
 		new Z().protectedmethod();
 		new Z().publicmethod();
 		
