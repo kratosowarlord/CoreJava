@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.Vector;
 
-public class assistedPractice5 {
+public class collection {
 
 	
 	public static void main(String[] args) {

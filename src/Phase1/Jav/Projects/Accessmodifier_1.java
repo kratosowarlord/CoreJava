@@ -15,7 +15,7 @@ class defModifier{
 	
 }
 
-public class assistedPractice2_1 {
+public class Accessmodifier_1 {
 	
 	
 	

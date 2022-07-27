@@ -1,10 +1,10 @@
 package Phase1.Jav.Projects_child;
 
-import Phase1.Jav.Projects.assistedPractice2_1;
+import Phase1.Jav.Projects.Accessmodifier_1;
 
 
 
-public class assistedPractice2_3 extends assistedPractice2_1 {
+public class assistedPractice2_3 extends Accessmodifier_1 {
 	
 	
 	public static void main(String[] args) {

@@ -5,7 +5,7 @@ import java.util.Hashtable;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class assistedPractice6 {
+public class map {
 	
 	//Hashmap
 	

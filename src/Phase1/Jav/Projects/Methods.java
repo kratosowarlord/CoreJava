@@ -1,6 +1,6 @@
 package Phase1.Jav.Projects;
 
-public class assistedPractice3 {
+public class Methods {
 	
 	int num = 45;
 	
@@ -32,7 +32,7 @@ public class assistedPractice3 {
 	public static void main(String[] args) {
 		
 		
-		assistedPractice3 remainder = new assistedPractice3();
+		Methods remainder = new Methods();
 		
 		
 		System.out.println(remainder.remainderFunction(566, 3));

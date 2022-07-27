@@ -1,6 +1,6 @@
 package Phase1.Jav.Projects;
 
-public class assistedPractice1 {
+public class Typecasting {
 
 	public static void main(String[] args) {
 
