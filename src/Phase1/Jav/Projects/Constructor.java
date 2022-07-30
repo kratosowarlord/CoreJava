@@ -7,7 +7,7 @@ class defaultConstructor{
 
 
 
-	int serial;
+	int ID;
 	String name;
 
 
@@ -15,7 +15,7 @@ class defaultConstructor{
 
 	void display() {
 
-		System.out.println(serial +" "+name);
+		System.out.println(ID +" "+name);
 	}
 }
 
@@ -50,6 +50,7 @@ public class Constructor {
 
 		con1.display();
 		con2.display();
+		
 	}
 
 
